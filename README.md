@@ -23,4 +23,4 @@ A collaborative Java-based account management system with support for:
 ### 🛠️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/account-crud-system.git
+   git clone https://github.com/<ArianB2>/account-crud-system.git
